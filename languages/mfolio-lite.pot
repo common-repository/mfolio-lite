@@ -1,0 +1,890 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mfolio Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-21 05:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#. 1: Plugin name 2: Elementor
+#: addons/addons.php:153
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. 1: Plugin name 2: Elementor 3: Required Elementor version
+#. 1: Plugin name 2: PHP 3: Required PHP version
+#: addons/addons.php:177 addons/addons.php:202
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: addons/widgets/portfolio-hover.php:481
+#: addons/widgets/portfolio-hover.php:483
+msgid "."
+msgstr ""
+
+#: addons/widgets/portfolio-hover.php:480
+msgid "0"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:504
+#: addons/widgets/portfolio-related.php:502
+msgid "Active Pagination Bg Color"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:493
+#: addons/widgets/portfolio-related.php:491
+msgid "Active Pagination Color"
+msgstr ""
+
+#: inc/mfolio-functions.php:67
+msgid "Add New Category"
+msgstr ""
+
+#: inc/mfolio-functions.php:27
+msgid "Add New Portfolio"
+msgstr ""
+
+#: inc/mfolio-functions.php:100
+msgid "Add New Tag"
+msgstr ""
+
+#: inc/mfolio-functions.php:70
+msgid "Add or remove Categorys"
+msgstr ""
+
+#: inc/mfolio-functions.php:103
+msgid "Add or remove Tags"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:172
+#: addons/widgets/portfolio-related.php:170
+#: addons/widgets/portfolio-section-title.php:124
+msgid "Alignment"
+msgstr ""
+
+#: inc/mfolio-functions.php:62
+msgid "All Categorys"
+msgstr ""
+
+#: inc/mfolio-functions.php:31
+msgid "All Portfolios"
+msgstr ""
+
+#: inc/mfolio-functions.php:95
+msgid "All Tags"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:116 addons/widgets/portfolio-hover.php:55
+#: addons/widgets/portfolio-related.php:114
+msgid "ASC"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:130 addons/widgets/portfolio-hover.php:69
+#: addons/widgets/portfolio-related.php:128
+msgid "Author"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:44
+msgid "Book Cover Design"
+msgstr ""
+
+#: inc/mfolio-functions.php:73
+msgid "Categories"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:363
+#: addons/widgets/portfolio-related.php:361
+msgid "Category"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:371
+#: addons/widgets/portfolio-related.php:369
+msgid "Category Color"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:382
+#: addons/widgets/portfolio-related.php:380
+msgid "Category Color On Hover"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:403
+#: addons/widgets/portfolio-related.php:401
+msgid "Category Margin"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:415
+#: addons/widgets/portfolio-related.php:413
+msgid "Category Padding"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:395
+#: addons/widgets/portfolio-related.php:393
+msgid "Category Typography"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:180
+#: addons/widgets/portfolio-related.php:178
+#: addons/widgets/portfolio-section-title.php:132
+msgid "Center"
+msgstr ""
+
+#: inc/mfolio-functions.php:71
+msgid "Choose from the most used Categorys"
+msgstr ""
+
+#: inc/mfolio-functions.php:104
+msgid "Choose from the most used Tags"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:69
+msgid "Client"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:822 addons/widgets/portfolio-hover.php:517
+#: addons/widgets/portfolio-related.php:820
+msgid "Create Some Portfolio Or Select Perfect Option To Show Portfolio"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:223
+#: addons/widgets/portfolio-related.php:221
+msgid "Custom"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:132 addons/widgets/portfolio-hover.php:71
+#: addons/widgets/portfolio-meta.php:60
+#: addons/widgets/portfolio-related.php:130
+msgid "Date"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:222
+#: addons/widgets/portfolio-related.php:220
+msgid "Default"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:117 addons/widgets/portfolio-hover.php:56
+#: addons/widgets/portfolio-related.php:115
+msgid "DESC"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:315
+msgid "Description Style"
+msgstr ""
+
+#: inc/mfolio-functions.php:40
+msgid "Description."
+msgstr ""
+
+#: inc/mfolio-functions.php:65
+msgid "Edit Category"
+msgstr ""
+
+#: inc/mfolio-functions.php:29
+msgid "Edit Portfolio"
+msgstr ""
+
+#: inc/mfolio-functions.php:98
+msgid "Edit Tag"
+msgstr ""
+
+#: addons/addons.php:155 addons/addons.php:179
+msgid "Elementor"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:142 addons/widgets/portfolio-hover.php:81
+#: addons/widgets/portfolio-related.php:140
+msgid "Exclude Categories"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:162 addons/widgets/portfolio-hover.php:101
+#: addons/widgets/portfolio-related.php:160
+msgid "Exclude Post"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:152 addons/widgets/portfolio-hover.php:91
+#: addons/widgets/portfolio-related.php:150
+msgid "Exclude Tags"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:82 addons/widgets/portfolio-related.php:80
+msgid "Four Column"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:198
+#: addons/widgets/portfolio-related.php:196
+#: addons/widgets/portfolio-section-title.php:150
+msgid "General"
+msgstr ""
+
+#: addons/widgets/double-image.php:37
+msgid "Go Premium For Double Image"
+msgstr ""
+
+#: addons/widgets/portfolio-details-banner.php:36
+msgid "Go Premium For Portfolio Details Banner"
+msgstr ""
+
+#: addons/widgets/portfolio-filter.php:34
+msgid "Go Premium For Portfolio Filter"
+msgstr ""
+
+#: addons/widgets/portfolio-gallery.php:33
+msgid "Go Premium For Portfolio Gallery"
+msgstr ""
+
+#: addons/widgets/portfolio-simple-slider.php:35
+msgid "Go Premium For Portfolio Simple Slider"
+msgstr ""
+
+#: addons/widgets/portfolio-slider.php:33
+msgid "Go Premium For Portfolio Slider"
+msgstr ""
+
+#: addons/widgets/double-image.php:44 addons/widgets/portfolio-filter.php:41
+#: addons/widgets/portfolio-gallery.php:40 addons/widgets/portfolio-grid.php:60
+#: addons/widgets/portfolio-related.php:59
+#: addons/widgets/portfolio-simple-slider.php:42
+#: addons/widgets/portfolio-slider.php:40
+msgid "Hey I Am Locked. Unlock Me!!!"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themelooks.com"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:89
+msgid "https://your-link.com"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:393
+msgid "Hypen Color After Subtitle"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:221
+msgid "Hypen Color After Title"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:281
+#: addons/widgets/portfolio-section-title.php:453
+msgid "Hypen Height"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:233
+#: addons/widgets/portfolio-section-title.php:405
+msgid "Hypen Margin Left"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:305
+#: addons/widgets/portfolio-section-title.php:477
+msgid "Hypen Top Position"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:257
+#: addons/widgets/portfolio-section-title.php:429
+msgid "Hypen Width"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:129 addons/widgets/portfolio-hover.php:68
+#: addons/widgets/portfolio-related.php:127
+msgid "ID"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:218
+#: addons/widgets/portfolio-related.php:216
+msgid "Item Gap Type"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:231
+#: addons/widgets/portfolio-related.php:229
+msgid "Item Margin"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:244
+#: addons/widgets/portfolio-related.php:242
+msgid "Item Padding"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:176
+#: addons/widgets/portfolio-related.php:174
+#: addons/widgets/portfolio-section-title.php:128
+msgid "Left"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:87
+msgid "Link"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:112
+msgid "Meta"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:129
+msgid "Meta Description"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:324
+msgid "Meta Description Color"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:344
+msgid "Meta Description Margin"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:356
+msgid "Meta Description Padding"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:336
+msgid "Meta Description Typography"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:216
+msgid "Meta Option"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:42
+msgid "Meta Title"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:171
+msgid "Meta Title Color"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:191
+msgid "Meta Title Margin"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:203
+msgid "Meta Title Padding"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:183
+msgid "Meta Title Typography"
+msgstr ""
+
+#. Name of the plugin
+#: addons/addons.php:154 addons/addons.php:178 addons/addons.php:203
+#: addons/addons.php:311
+msgid "Mfolio Lite"
+msgstr ""
+
+#. Description of the plugin
+msgid "Multipurpose Portfolio Addon For Elementor"
+msgstr ""
+
+#: inc/mfolio-functions.php:68
+msgid "New Category Name"
+msgstr ""
+
+#: inc/mfolio-functions.php:28
+msgid "New Portfolio"
+msgstr ""
+
+#: inc/mfolio-functions.php:101
+msgid "New Tag Name"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:803
+#: addons/widgets/portfolio-related.php:801
+msgid "NEXT"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:95 addons/widgets/portfolio-related.php:93
+msgid "No"
+msgstr ""
+
+#: inc/mfolio-functions.php:72
+msgid "No Categorys found."
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:104 addons/widgets/portfolio-hover.php:43
+#: addons/widgets/portfolio-related.php:102
+msgid "No of Post to show"
+msgstr ""
+
+#: inc/mfolio-functions.php:35
+msgid "No Portfolios found in Trash."
+msgstr ""
+
+#: inc/mfolio-functions.php:34
+msgid "No Portfolios found."
+msgstr ""
+
+#: inc/mfolio-functions.php:105
+msgid "No Tags found."
+msgstr ""
+
+#: addons/widgets/portfolio-hover.php:189
+msgid "Number"
+msgstr ""
+
+#: addons/widgets/portfolio-hover.php:197
+msgid "Number Color"
+msgstr ""
+
+#: addons/widgets/portfolio-hover.php:208
+msgid "Number Color On Hover"
+msgstr ""
+
+#: addons/widgets/portfolio-hover.php:239
+msgid "Number Margin"
+msgstr ""
+
+#: addons/widgets/portfolio-hover.php:251
+msgid "Number Padding"
+msgstr ""
+
+#: addons/widgets/portfolio-hover.php:219
+msgid "Number Text Stroke Color On Hover"
+msgstr ""
+
+#: addons/widgets/portfolio-hover.php:231
+msgid "Number Typography"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:224
+msgid "Option Color"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:244
+msgid "Option Margin"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:67
+msgid "Option Name"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:256
+msgid "Option Padding"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:236
+msgid "Option Typography"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:76
+msgid "Option Value"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:113 addons/widgets/portfolio-hover.php:52
+#: addons/widgets/portfolio-related.php:111
+msgid "Order"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:126 addons/widgets/portfolio-hover.php:65
+#: addons/widgets/portfolio-related.php:124
+msgid "Order By"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:429
+#: addons/widgets/portfolio-related.php:427
+msgid "Pagination"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:438
+#: addons/widgets/portfolio-related.php:436
+msgid "Pagination Color"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:449
+#: addons/widgets/portfolio-related.php:447
+msgid "Pagination Color On Hover"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:469
+#: addons/widgets/portfolio-related.php:467
+msgid "Pagination Margin"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:481
+#: addons/widgets/portfolio-related.php:479
+msgid "Pagination Padding"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:461
+#: addons/widgets/portfolio-related.php:459
+msgid "Pagination Typography"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:257
+#: addons/widgets/portfolio-related.php:255
+msgid "Parent Margin"
+msgstr ""
+
+#: inc/mfolio-functions.php:33
+msgid "Parent Portfolios:"
+msgstr ""
+
+#: addons/addons.php:204
+msgid "PHP"
+msgstr ""
+
+#: inc/mfolio-functions.php:61
+msgid "Popular Categorys"
+msgstr ""
+
+#: inc/mfolio-functions.php:94
+msgid "Popular Tags"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:77 addons/widgets/portfolio-related.php:75
+msgid "Portfolio Column"
+msgstr ""
+
+#: addons/widgets/portfolio-details-banner.php:20
+msgid "Portfolio Details Banner"
+msgstr ""
+
+#: addons/widgets/double-image.php:18
+msgid "Portfolio Double Image"
+msgstr ""
+
+#: addons/widgets/portfolio-filter.php:18
+msgid "Portfolio Filter"
+msgstr ""
+
+#: addons/widgets/portfolio-gallery.php:17
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:17 addons/widgets/portfolio-grid.php:37
+msgid "Portfolio Grid"
+msgstr ""
+
+#: addons/widgets/portfolio-hover.php:18 addons/widgets/portfolio-hover.php:35
+msgid "Portfolio Hover"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:206
+#: addons/widgets/portfolio-related.php:204
+msgid "Portfolio Item Hover Background"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:19 addons/widgets/portfolio-meta.php:35
+msgid "Portfolio Meta"
+msgstr ""
+
+#: addons/widgets/portfolio-simple-slider.php:19
+msgid "Portfolio Simple Slider"
+msgstr ""
+
+#: addons/widgets/portfolio-slider.php:17
+msgid "Portfolio Slider"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:802
+#: addons/widgets/portfolio-related.php:800
+msgid "PREV"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:120
+msgid "Product Design"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:103
+msgid "Project Date"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:133 addons/widgets/portfolio-hover.php:72
+#: addons/widgets/portfolio-related.php:131
+msgid "Random"
+msgstr ""
+
+#: addons/widgets/portfolio-related.php:17
+#: addons/widgets/portfolio-related.php:37
+msgid "Related Portfolio"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:184
+#: addons/widgets/portfolio-related.php:182
+#: addons/widgets/portfolio-section-title.php:136
+msgid "Right"
+msgstr ""
+
+#: inc/mfolio-functions.php:60
+msgid "Search Categorys"
+msgstr ""
+
+#: inc/mfolio-functions.php:32
+msgid "Search Portfolios"
+msgstr ""
+
+#: inc/mfolio-functions.php:93
+msgid "Search Tags"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:546
+msgid "Section Description Color"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:566
+msgid "Section Description Margin"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:578
+msgid "Section Description Padding"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:535
+msgid "Section Description Style"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:558
+msgid "Section Description Typography"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:100
+#: addons/widgets/portfolio-section-title.php:102
+msgid "Section Short Description"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:71
+#: addons/widgets/portfolio-section-title.php:73
+msgid "Section Subtitle"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:383
+msgid "Section Subtitle Color"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:510
+msgid "Section Subtitle Margin"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:522
+msgid "Section Subtitle Padding"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:373
+msgid "Section Subtitle Style"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:502
+msgid "Section Subtitle Typography"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:18
+#: addons/widgets/portfolio-section-title.php:34
+#: addons/widgets/portfolio-section-title.php:42
+#: addons/widgets/portfolio-section-title.php:44
+msgid "Section Title"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:196
+msgid "Section Title Color"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:341
+msgid "Section Title Margin"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:356
+msgid "Section Title Padding"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:207
+msgid "Section Title Stroke Color"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:185
+msgid "Section Title Style"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:330
+msgid "Section Title Typography"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:158
+msgid "Section Wrapper Margin"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:170
+msgid "Section Wrapper Padding"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:54
+msgid "Select Option Type"
+msgstr ""
+
+#: inc/mfolio-functions.php:69
+msgid "Separate Categorys with commas"
+msgstr ""
+
+#: inc/mfolio-functions.php:102
+msgid "Separate Tags with commas"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:92 addons/widgets/portfolio-related.php:90
+msgid "Show Pagination?"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:148
+msgid "Sticky Top Position"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:45 addons/widgets/portfolio-related.php:45
+msgid "Style"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:51 addons/widgets/portfolio-related.php:51
+#: addons/widgets/portfolio-section-title.php:116
+msgid "Style Four"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:113
+msgid "Style One"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:48 addons/widgets/portfolio-related.php:48
+msgid "Style One (Pro)"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:115
+msgid "Style Three"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:50 addons/widgets/portfolio-related.php:50
+msgid "Style Three (Pro)"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:49 addons/widgets/portfolio-related.php:49
+#: addons/widgets/portfolio-section-title.php:114
+msgid "Style Two"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:80
+msgid "Subitle Tag"
+msgstr ""
+
+#: inc/mfolio-functions.php:106
+msgid "Tags"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:59
+msgid "Text"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:56
+msgid "text"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:258
+#: addons/widgets/portfolio-related.php:256
+msgid ""
+"The Padding You Set On Item Padding Give A Minus Value Here For Working "
+"Properly"
+msgstr ""
+
+#. Author of the plugin
+#: addons/widgets/portfolio-meta.php:78 addons/widgets/portfolio-meta.php:117
+msgid "Themelooks"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:81 addons/widgets/portfolio-related.php:79
+msgid "Three Column"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:131 addons/widgets/portfolio-grid.php:273
+#: addons/widgets/portfolio-hover.php:70 addons/widgets/portfolio-hover.php:113
+#: addons/widgets/portfolio-related.php:129
+#: addons/widgets/portfolio-related.php:271
+msgid "Title"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:293 addons/widgets/portfolio-hover.php:121
+#: addons/widgets/portfolio-related.php:291
+msgid "Title Color"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:304 addons/widgets/portfolio-hover.php:132
+#: addons/widgets/portfolio-related.php:302
+msgid "Title Color On Hover"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:316
+#: addons/widgets/portfolio-related.php:314
+msgid "Title Color On Hover Image"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:337 addons/widgets/portfolio-hover.php:163
+#: addons/widgets/portfolio-related.php:335
+msgid "Title Margin"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:349 addons/widgets/portfolio-hover.php:175
+#: addons/widgets/portfolio-related.php:347
+msgid "Title Padding"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:140
+#: addons/widgets/portfolio-section-title.php:109
+msgid "Title Style"
+msgstr ""
+
+#: addons/widgets/portfolio-section-title.php:51
+msgid "Title Tag"
+msgstr ""
+
+#: addons/widgets/portfolio-hover.php:143
+msgid "Title Text Stroke Color On Hover"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:329 addons/widgets/portfolio-hover.php:155
+#: addons/widgets/portfolio-related.php:327
+msgid "Title Typography"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:80 addons/widgets/portfolio-related.php:78
+msgid "Two Column"
+msgstr ""
+
+#: addons/widgets/portfolio-details-banner.php:43
+msgid "Unlock The Widget"
+msgstr ""
+
+#: inc/mfolio-functions.php:66
+msgid "Update Category"
+msgstr ""
+
+#: inc/mfolio-functions.php:99
+msgid "Update Tag"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:269
+msgid "Value Color"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:289
+msgid "Value Margin"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:301
+msgid "Value Padding"
+msgstr ""
+
+#: addons/widgets/portfolio-meta.php:281
+msgid "Value Typography"
+msgstr ""
+
+#: inc/mfolio-functions.php:30
+msgid "View Portfolio"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:281
+#: addons/widgets/portfolio-related.php:279
+msgid "Wrapper Background Color"
+msgstr ""
+
+#: addons/widgets/portfolio-grid.php:94 addons/widgets/portfolio-related.php:92
+msgid "Yes"
+msgstr ""
